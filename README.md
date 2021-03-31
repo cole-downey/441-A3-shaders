@@ -1,0 +1,2 @@
+# OpenGL A3 - Shaders
+In this project, I wrote several vertex and fragment shaders, including a Blinn-Phong shader, a silhouette shader, and a cel shader, all of which support multiple lights and materials
